@@ -72,12 +72,12 @@ To contribute:
 |Inworld|Vancouver, BC|  **[Closed]** ~~[Software Engineering Intern]~~|Summer 2023|12-16 weeks, Remote|
 |Entrust|Ottawa, ON|  **[Closed]** ~~[Intern - Software Development - Certificate Solutions]~~|?|16 months|
 |General Dynamics|Ottawa, ON|  **[Closed]** ~~[Software Engineering Co-op]~~|Summer 2023|4-12 Months|
-|D2L|Multiple Locations| [Software Developer Co-op](https://www.d2l.com/careers/early-talent/jobs/)|Summer 2023|4, 12-16 Months, Remote|
-|Wealthsimple|Toronto, ON / Remote| [Software Engineering Internship (Summer 2023)](https://jobs.lever.co/wealthsimple/05ce914d-b415-4a75-a66a-01b65fa1c912)|Summer 2023|4 or 8 Months|
-|CMAI - SPOT| Montreal, QC | [Software Developer – Sentinel Team](https://placementspot.ca/stages/developpeur-de-logiciels-equipe-sentinel-1) | Summer 2023 | 4 months |
-|Huawei Technologies Canada Co., Ltd.| Markham, ON | [Co-op Software Engineer](https://huaweicanada.recruitee.com/o/coop-software-engineer) |Summer 2023 | 4 months, Submit your application on BOTH Company Application Portal and School Portal (Oscarplus) | 
+|D2L|Multiple Locations| [Software Developer Co-op](https://www.d2l.com/careers/early-talent/jobs/)|Summer 2023| NOPE |
+|Wealthsimple|Toronto, ON / Remote| [Software Engineering Internship (Summer 2023)](https://jobs.lever.co/wealthsimple/05ce914d-b415-4a75-a66a-01b65fa1c912)|Summer 2023|Applied|
+|CMAI - SPOT| Montreal, QC | [Software Developer – Sentinel Team](https://placementspot.ca/stages/developpeur-de-logiciels-equipe-sentinel-1) | Summer 2023 | NOPE | 
+|Huawei Technologies Canada Co., Ltd.| Markham, ON | [Co-op Software Engineer](https://huaweicanada.recruitee.com/o/coop-software-engineer) |Summer 2023 | NOPE | 
 |Citibank| Mississauga, ON |  **[Closed]** ~~[ICG Technology Summer Analyst, Software Development]~~ | Summer 2023 | 4 months |
-|Intuit| Toronto, ON | [Software Developer](https://jobs.intuit.com/job/toronto/software-developer-co-op-summer-2023-4-months/27595/41800278192?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) | Summer 2023 |
+|Intuit| Toronto, ON | [Software Developer](https://jobs.intuit.com/job/toronto/software-developer-co-op-summer-2023-4-months/27595/41800278192?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) | Summer 2023 | Applied |
 |Learn4Good| Hamilton, ON | **[Closed]** ~~[Software Engineering/Front End]~~ | Fall 2023 | NOPE |
 |CanadaLife| Toronto, ON | [Associate Software Developer](https://www.linkedin.com/jobs/view/associate-software-developer-co-op-at-canada-life-3450531175/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic&originalSubdomain=ca) | ? |
 | Blackbery | Waterloo, ON | [Software Development Student](https://bb.wd3.myworkdayjobs.com/en-US/Student/jobs/details/Software-Development-Student---4-Month-Summer-Term_20222139) | Summer 2023 | 4 months |

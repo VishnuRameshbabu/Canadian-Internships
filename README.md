@@ -78,21 +78,21 @@ To contribute:
 |Huawei Technologies Canada Co., Ltd.| Markham, ON | [Co-op Software Engineer](https://huaweicanada.recruitee.com/o/coop-software-engineer) |Summer 2023 | 4 months, Submit your application on BOTH Company Application Portal and School Portal (Oscarplus) | 
 |Citibank| Mississauga, ON |  **[Closed]** ~~[ICG Technology Summer Analyst, Software Development]~~ | Summer 2023 | 4 months |
 |Intuit| Toronto, ON | [Software Developer](https://jobs.intuit.com/job/toronto/software-developer-co-op-summer-2023-4-months/27595/41800278192?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) | Summer 2023 |
-|Learn4Good| Hamilton, ON | **[Closed]** ~~[Software Engineering/Front End]~~ | Fall 2023 |
+|Learn4Good| Hamilton, ON | **[Closed]** ~~[Software Engineering/Front End]~~ | Fall 2023 | NOPE |
 |CanadaLife| Toronto, ON | [Associate Software Developer](https://www.linkedin.com/jobs/view/associate-software-developer-co-op-at-canada-life-3450531175/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic&originalSubdomain=ca) | ? |
 | Blackbery | Waterloo, ON | [Software Development Student](https://bb.wd3.myworkdayjobs.com/en-US/Student/jobs/details/Software-Development-Student---4-Month-Summer-Term_20222139) | Summer 2023 | 4 months |
-| Nasdaq | Toronto - Ontario | [Software Engineering Intern](https://nasdaq.wd1.myworkdayjobs.com/en-US/US_External_Career_Site/job/Software-Engineer-ing-Intern---US---Canada-2023-Internship_R0011592) | Summer 2023 |  |
-| Genetec | Montreal, QC | [Software Developer - Cloud](https://apply.workable.com/genetec-inc/j/453BD3A0A4/) | Summer 2023 |  |
-|Meta University|Menlo Park,CA,USA | **[Closed]** ~~[Engineering Summer 2023]~~|Summer 2023| first and second year students in US, Canada,Mexico|
-|1Password| Canada(Remote) | [Developer Intern - User Lifecycle & Growth](https://jobs.lever.co/1password/367b7769-5ad8-40c8-be26-968cca25134a)|Summer 2023|
+| Nasdaq | Toronto - Ontario | [Software Engineering Intern](https://nasdaq.wd1.myworkdayjobs.com/en-US/US_External_Career_Site/job/Software-Engineer-ing-Intern---US---Canada-2023-Internship_R0011592) | Summer 2023 | Applied |
+| Genetec | Montreal, QC | [Software Developer - Cloud](https://apply.workable.com/genetec-inc/j/453BD3A0A4/) | Summer 2023 | NOPE |
+|Meta University|Menlo Park,CA,USA | **[Closed]** ~~[Engineering Summer 2023]~~|Summer 2023| NOPE |
+|1Password| Canada(Remote) | [Developer Intern - User Lifecycle & Growth](https://jobs.lever.co/1password/367b7769-5ad8-40c8-be26-968cca25134a)|Summer 2023| Applied |
 |Axon|Canada(Remote)| **[Closed]** ~~[Embedded Systems Engineering Internship]~~| Summer 2023|
-|RBC| MISSISSAUGA, Ontario, Canada | [Insurance-Data Engineer - Co-op]([https://jobs.lever.co/1password/367b7769-5ad8-40c8-be26-968cca25134a](https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/MISSISSAUGA-Ontario-Canada/Data-Engineer---Co-op_R-0000044874))|Summer 2023|
-|Nokia| Ottawa, Ontario, Canada | [5G Cloud Engineer Co-op/Intern](https://careers.nokia.com/jobs/5g-cloud-engineer-co-op-intern-95209)| Summer 2023 | 4 or 8 months|
-|Ulula| Hybrid/Toronto, ON|  **[Closed]** ~~[Software Development Intern]~~|Summer 2023| 4 months |
-|Tucows| Remote, Canada | [Systems Administrator, Intern - Remote](https://boards.greenhouse.io/tucowscampusrecruitment/jobs/5485468003?gh_src=b82acda93us)|Summer/Fall 2023| 4, 8 or 12 months|
-|Hatch| Mississauga, Ontario, Canada| [Hydrotechnical Co-op Student](https://career4.successfactors.com/sfcareer/jobreqcareerpvt?jobId=86003&company=hatchassocP&st=2A9CCC837942B835412A9AC69DD5ADF55BA5AEB6)|Summer 2023|
-|Schneider Electrics| Victoria, BC | [Firmware Engineering Co-op Student](https://careers.se.com/global/jobs/46029?lang=en-us&iis=Job%20Board&iisn=linkedin&src=linkedin)||
-|AppLovin| Toronto, ON | [Backend Software Engineering Intern](https://jobs.lever.co/applovin/de10fcfa-bb39-41ec-95fa-a72ed9b6484d)| Summer 2023
+|RBC| MISSISSAUGA, Ontario, Canada | [Insurance-Data Engineer - Co-op]([https://jobs.lever.co/1password/367b7769-5ad8-40c8-be26-968cca25134a](https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/MISSISSAUGA-Ontario-Canada/Data-Engineer---Co-op_R-0000044874))|Summer 2023| NOPE |
+|Nokia| Ottawa, Ontario, Canada | [5G Cloud Engineer Co-op/Intern](https://careers.nokia.com/jobs/5g-cloud-engineer-co-op-intern-95209)| Summer 2023 | NOPE |
+|Ulula| Hybrid/Toronto, ON|  **[Closed]** ~~[Software Development Intern]~~|Summer 2023| NOPE |
+|Tucows| Remote, Canada | [Systems Administrator, Intern - Remote](https://boards.greenhouse.io/tucowscampusrecruitment/jobs/5485468003?gh_src=b82acda93us)|Summer/Fall 2023| NOPE |
+|Hatch| Mississauga, Ontario, Canada| [Hydrotechnical Co-op Student](https://career4.successfactors.com/sfcareer/jobreqcareerpvt?jobId=86003&company=hatchassocP&st=2A9CCC837942B835412A9AC69DD5ADF55BA5AEB6)|Summer 2023| NOPE |
+|Schneider Electrics| Victoria, BC | [Firmware Engineering Co-op Student](https://careers.se.com/global/jobs/46029?lang=en-us&iis=Job%20Board&iisn=linkedin&src=linkedin)|| NOPE | 
+|AppLovin| Toronto, ON | [Backend Software Engineering Intern](https://jobs.lever.co/applovin/de10fcfa-bb39-41ec-95fa-a72ed9b6484d)| Summer 2023 | Applied |
 |Nasdaq | Toronto, ON | [Software Engineering Intern - US & Canada 2023 Internship](https://nasdaq.wd1.myworkdayjobs.com/en-US/US_External_Career_Site/job/Software-Engineer-ing-Intern---US---Canada-2023-Internship_R0011592) | Summer 2023 | Applied |
 | Sun Life | Toronto, ON, Waterloo, ON | [Data Engineer Co-op](https://sunlife.wd3.myworkdayjobs.com/en-US/Campus/job/Toronto-Ontario/Data-Engineer-Co-op_JR00075375) | | NOPE |
 | Lyft| Montreal, QC| [Software Engineering Intern](https://app.careerpuck.com/job-board/lyft/job/6559125002?gh_jid=6559125002)| Summer 2023| Applied |
